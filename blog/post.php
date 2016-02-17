@@ -31,7 +31,7 @@
                     
                     <div class="modal-content">
                     
-                        <form action="NuInput.php" method="post">
+                        
                             
                             <?php
 
@@ -80,8 +80,7 @@
                             <h3>Text:</h3>
                             <textarea rows="10" cols="35" id="txt" name="txt"><?php echo $text; ?></textarea>
     
-                            <button type="get" class="butn">Stisn</button>
-                        </form>
+                        
                     
                     </div>
                     
