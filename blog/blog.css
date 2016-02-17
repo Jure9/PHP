@@ -1,0 +1,31 @@
+body 
+{
+    background-color:#E74C3C;
+    background-size: cover;
+}
+#wrapper 
+{ 
+    margin: 50px; 
+}
+.modal-content {
+    padding: 10px 30px 10px 30px;
+    box-shadow: 0;
+    background-color: #fff;
+    -webkit-background-clip: none;
+    background-clip: none;
+    border: none;
+    border: none;
+    outline: 0;
+    -webkit-box-shadow: none;
+    border-radius: 19px;
+    width: 500px;
+    height: 600px;
+    top: 50px;
+    text-align: center;
+}
+.butn
+{
+    position: absolute;
+    right:    50%;
+    bottom:   80px;
+}
